@@ -1,4 +1,3 @@
-import re
 inputString = open('input/2.txt').read()
 rows = inputString.split('\n')
 checksum = 0
